@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    function:
+      definition: orderFunction
+server:
+  port: 8082
